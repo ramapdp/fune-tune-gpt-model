@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b9d9d13-64a3-4253-8239-f74df4c9ab4d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/data/dataset.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset.jsonl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fine-tune.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fine-tune.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jHrSO1aBuHyv4lMvKwtYmcj0MV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.augmented_data.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ramadhani.pratama/Downloads/model&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Skripsi\fine-tune\scientificProject\data-excel" />
+      <recent name="C:\Skripsi\fine-tune\scientificProject\data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b9d9d13-64a3-4253-8239-f74df4c9ab4d" name="Changes" comment="" />
+      <created>1721054844626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721054844626</updated>
+      <workItem from="1721054845995" duration="95000" />
+      <workItem from="1721054957985" duration="751000" />
+      <workItem from="1721057197190" duration="4135000" />
+      <workItem from="1721090604698" duration="2425000" />
+      <workItem from="1721098615415" duration="16721000" />
+      <workItem from="1721130449955" duration="1082000" />
+      <workItem from="1721137565823" duration="4331000" />
+      <workItem from="1721184236013" duration="7276000" />
+      <workItem from="1721262286303" duration="152000" />
+      <workItem from="1721262453226" duration="11050000" />
+      <workItem from="1721315739555" duration="17468000" />
+      <workItem from="1721482235951" duration="599000" />
+      <workItem from="1721698223651" duration="3861000" />
+      <workItem from="1721794370040" duration="598000" />
+      <workItem from="1721809673439" duration="687000" />
+      <workItem from="1721813034414" duration="1387000" />
+      <workItem from="1722514223048" duration="9477000" />
+      <workItem from="1722527620006" duration="7130000" />
+      <workItem from="1722560395719" duration="15522000" />
+      <workItem from="1722747378205" duration="4395000" />
+      <workItem from="1722758369274" duration="3817000" />
+      <workItem from="1722772149851" duration="182000" />
+      <workItem from="1722772397575" duration="24693000" />
+      <workItem from="1722938971051" duration="3983000" />
+      <workItem from="1722959515303" duration="5008000" />
+      <workItem from="1723056896264" duration="719000" />
+      <workItem from="1723099373268" duration="5996000" />
+      <workItem from="1723308947091" duration="5921000" />
+      <workItem from="1723347359635" duration="1736000" />
+      <workItem from="1723363849127" duration="1387000" />
+      <workItem from="1723421607659" duration="2039000" />
+      <workItem from="1723564183922" duration="47000" />
+      <workItem from="1723880367315" duration="10948000" />
+      <workItem from="1723965251125" duration="7242000" />
+      <workItem from="1724031995317" duration="1896000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Skripsi/fine-tune/scientificProject/show-plot-fine-tuning-model.ipynb</url>
+          <line>124</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scientificProject$augmented_data.coverage" NAME="augmented_data Coverage Results" MODIFIED="1721322629944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
